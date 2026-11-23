@@ -50,7 +50,7 @@ No chat do Kiro, digite `#` e o nome do prompt:
 ```
 #hub-ler-menu
 #hub-pedidos-com-erro
-#hub-consultar-pedido 1675980522101-01
+#hub-consultar-pedido
 #hub-ler-tela-config Clientes
 ```
 
